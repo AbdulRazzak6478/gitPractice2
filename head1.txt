@@ -1,15 +1,7 @@
-gf
-hgshg
-j
-ghfj
-h
-gj
-dfh
-j
-fj
-hd
-j
-h
-gd
-j
-gh
+origin  git@github.com:AbdulRazzak6478/GitPractice.git (fetch)
+origin  git@github.com:AbdulRazzak6478/GitPractice.git (push)
+origin2 git@github.com:AbdulRazzak6478/gitPractice2.git (fetch)
+origin2 git@github.com:AbdulRazzak6478/gitPractice2.git (push)
+origin3 https://github.com/AbdulRazzak6478/practice.git (fetch)
+origin3 https://github.com/AbdulRazzak6478/practice.git (push)
+fghjkl
